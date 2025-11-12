@@ -1,16 +1,2 @@
-# mislab1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/1bd91a69-fb0b-4b6e-a422-30f1e3e5f285" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/e2b5a937-afb3-46fa-8ff2-459b13c4ba5b" />
